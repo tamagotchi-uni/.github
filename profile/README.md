@@ -2,7 +2,7 @@
 
 Our goal is to research and preserve hardware, software, and networking features of the Tamagotchi Uni.
 
-Check out [the documentation](https://tamagotchi-uni.github.io.) for more information. Lawyers, read the [legal notice](https://www.youtube.com/watch?v=XGxIE1hr0w4).
+Check out [the documentation](https://tamagotchi-uni.github.io/docs) for more information. Lawyers, read the [legal notice](https://www.youtube.com/watch?v=XGxIE1hr0w4).
 
 /[docs](https://github.com/tamagotchi-uni/docs)
 >Documentation site deployed with Pages
